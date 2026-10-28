@@ -66,7 +66,7 @@ const Mateus = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,,git,github,figma,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,figma,vscode&perline=8"/>
 
 </div>
 
