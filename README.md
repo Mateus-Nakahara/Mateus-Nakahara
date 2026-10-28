@@ -66,7 +66,7 @@ const Mateus = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,,git,github,figma,vscode&perline=8"/>
 
 </div>
 
@@ -77,6 +77,7 @@ const Mateus = {
 | 🚀 Project | 💡 Description |
 |---|---|
 |⚽ Soccer Choices | Um jogo de futebol baseado em escolhas, desenvolvido 100% em C++. |
+|🛒 Ecommerce | Um Ecommerce simples feito em PHP puro. |
 
 ---
 
